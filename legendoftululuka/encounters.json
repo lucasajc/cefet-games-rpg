@@ -140,11 +140,15 @@
     ]
   },
   {
-    "name":"#<None>",
+    "name":"# Muspel",
     "units":[
-      
+      {
+        "enemyIdx":162,
+        "x":255,
+        "y":210
+      }
     ],
-    "canEscape":true,
+    "canEscape":false,
     "escapeChance":0.7,
     "events":[
       

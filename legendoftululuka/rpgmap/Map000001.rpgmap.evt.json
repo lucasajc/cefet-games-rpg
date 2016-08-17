@@ -32,6 +32,42 @@
       "params":[
         
       ]
+    },
+    {
+      "id":2,
+      "name":"Event00002",
+      "x":0.5,
+      "y":12.5,
+      "states":[
+        {
+          "conditions":[
+            
+          ],
+          "height":0,
+          "affixDirection":false,
+          "trigger":2,
+          "animationType":0,
+          "runOnceThenIncrementState":false,
+          "cmds":[
+            {
+              "jsonClass":"SetGlobalInt",
+              "key":"dialogo",
+              "operatorId":0,
+              "value1":{
+                "jsonClass":"IntParameter",
+                "constant":0,
+                "valueTypeId":0,
+                "localVariable":"",
+                "globalVariable":""
+              }
+            }
+          ]
+        }
+      ],
+      "eventClassId":-1,
+      "params":[
+        
+      ]
     }
   ]
 }

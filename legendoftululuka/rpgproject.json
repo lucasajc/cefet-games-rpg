@@ -1,6 +1,6 @@
 {
   "uuid":"45434478-e358-4691-b712-48e5d6925ed0",
-  "title":"Untitled Project",
+  "title":"The Legend Of Tululuka",
   "recentMapName":"",
   "lastCreatedMapId":3,
   "startup":{
@@ -14,7 +14,7 @@
     ],
     "titlePic":"sys/LordSpirit.jpg",
     "titleMusic":{
-      "sound":"sys/sean_m_stephens/TitleMoon.mid",
+      "sound":"sys/sean_m_stephens/Battle1.mid",
       "volume":1.0,
       "pitch":1.0
     },
